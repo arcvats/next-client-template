@@ -24,7 +24,7 @@ export default function Home() {
           </li>
           <li>
             Save and see your changes instantly.{" "}
-            {t("hello.yo.yoyo", { test: "testing", here: "HERE" })}
+            {t("one.two.three", { testOne: "There", testTwo: "World" })}
           </li>
         </ol>
 
